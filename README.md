@@ -1,2 +1,2 @@
-# cobaaja
-Belajar coba aja
+# belajarcoding
+Belajar Coding di Progate
